@@ -1,0 +1,9 @@
+{
+    "proxy": {
+        "mode": false,
+        "server": "",
+        "username": "",
+        "password": ""
+    },
+    "capsolver_api_key": "CAP-XXXXXX..."
+}
